@@ -6,16 +6,21 @@
 **GROUP NO-9**
 
 **MILESTONES ACHIEVED**
-  1.Fetching the world data.(date,new confirmed,new deaths,total cases total deaths, total recovered) 
-  2.Fetching current coordinates and getting the country data and district data. 
-  3.Fetching data of any country(GLOBAL) and state(INDIAN) entered by user.
-  ADDITIONAL:
-     Responsive
+  **1**.Fetching the world data.(date,new confirmed,new deaths,total cases total deaths, total recovered) 
+  
+  **2**.Fetching current coordinates and getting the country data and district data. 
+  
+  **3**.Fetching data of any country(GLOBAL) and state(INDIAN) entered by user.
+  
+       ADDITIONAL:
+         Responsive
      
 
 **TECH-STACK**
    1.JavaScript
+   
    2. HTML
+   
    3. CSS
    
  **DESCRIPTION**
