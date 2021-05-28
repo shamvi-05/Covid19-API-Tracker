@@ -1,6 +1,8 @@
 # Covid19-API-Tracker
 **WEBSITE LINK-** https://shamvi-05.github.io/Covid19-API-Tracker/
+
 **NAME:** SHAMBHAVI SINGH
+
 **GROUP NO-9**
 
 **MILESTONES ACHIEVED**
@@ -12,9 +14,9 @@
      
 
 **TECH-STACK**
-   -> JavaScript
-   -> HTML
-   -> CSS
+   1.JavaScript
+   2. HTML
+   3. CSS
    
  **DESCRIPTION**
  This website displays the covid statistics of the global data(reload button help you reach the current updated data every second).It also display the covid statistics of India with total number of cases recorded.Then it also provides you with the covid data of any country across the globe(you just need to type it correctly).Indian state level data is also available but you need to input the state code which is given below the search bar.For getting the covid stats of your current location you need to allow the location alert.
